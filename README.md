@@ -1,4 +1,4 @@
-# coverage-example
+# Coverage - example
 ## Set Up
 ### 1 .Clone the git repo and create an environment 
                     
