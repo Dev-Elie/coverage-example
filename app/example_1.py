@@ -19,4 +19,4 @@ def translate_color(color):
     else:
         return "Color not found"
 
-print(translate_color("aquamarine1"))
+# print(translate_color("aquamarine1"))
