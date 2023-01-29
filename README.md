@@ -5,7 +5,7 @@
 **Windows**
           
 ```bash
-git clone https://github.com/Dev-Elie/coverage-example.git
+git clone https://github.com/ondiekelijah/coverage-example.git
 cd coverage-example
 py -3 -m venv venv
 ```
@@ -13,7 +13,7 @@ py -3 -m venv venv
 **macOS/Linux**
           
 ```bash
-git clone https://github.com/Dev-Elie/coverage-example.git
+git clone https://github.com/ondiekelijah/coverage-example.git
 cd coverage-example
 python3 -m venv venv
 ```
